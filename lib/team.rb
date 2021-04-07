@@ -15,7 +15,5 @@ class Team
 
   def total_salary
     @players
-
-
   end
 end
