@@ -9,5 +9,8 @@ class Team
     @players = []
   end
 
+  def add_player(player)
+    @players << player
+  end 
 
 end
