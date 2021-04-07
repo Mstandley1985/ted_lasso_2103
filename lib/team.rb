@@ -11,6 +11,11 @@ class Team
 
   def add_player(player)
     @players << player
-  end 
+  end
 
+  def total_salary
+    @players
+
+
+  end
 end
